@@ -8,7 +8,7 @@
 
 > Main Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=641844911813165056&permissions=8&scope=bot%20applications.commands)
 
-## Requirements
+## 📜 Requirements
 
 - Node.js 10.4 or newer
 - npm installed
@@ -34,16 +34,18 @@ npm install
 
 - Feel free to [Fork](https://github.com/Abdul1810/Cutie-Bot/fork) this repository, create a feature branch and submit a pull request
 
-## Support
+## ✋ Support
 
 My Discord - [Abdul♥#5464](https://discord.com/users/737553088218529813)
 
 IF You Can't Contact Me in Dms. Join Any Of The Official Discord Servers And Try Dms.
 
-## About
+## ♥ About
 
 Author - [Abdul1810](https://github.com/Abdul1810)
 
+👉 Follow Me For More Open Source Codes.
+
 ⭐ Star This Repo If You Like.
 
-Made With 💖 and JavaScript.
+💖 Made With JavaScript.
