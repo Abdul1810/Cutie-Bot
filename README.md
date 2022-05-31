@@ -2,7 +2,7 @@
 
 # Cutie Bot 🤖
 
-> An awesome multipurpose discord bot build using [Eris 15.0.1](https://discord.gg/eris) with support for slash commands and context menus
+> An awesome multipurpose discord bot build using [Eris 15.0.1](https://discord.gg/eris) with support for slash commands
 > An awesome multipurpose discord bot build using [Eris Sharder](https://github.com/Abdul1810/eris-sharder.git) for a Good Cluster Management
 > 100+ Commands Includes Moderation, Fun, Images, Text, Utility
 
