@@ -1,0 +1,40 @@
+{
+	"name": "cutie",
+	"version": "3.1.0",
+	"description": "100+ Commands Includes Moderation, Fun, Images, Text, Utility",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Abdul1810",
+	"license": "ISC",
+	"dependencies": {
+		"@aero/sanitizer": "^1.2.0",
+		"abort-controller": "^3.0.0",
+		"canvas": "^2.8.0",
+		"common-tags": "^1.8.0",
+		"custom-translate": "^2.2.8",
+		"eris": "^0.15.1",
+		"eris-sharder": "github:Abdul1810/eris-sharder",
+		"figlet": "^1.5.0",
+		"image-data-uri": "^1.1.1",
+		"mathjs": "^9.4.1",
+		"moment": "^2.29.1",
+		"mongoose": "^5.12.7",
+		"nekos.life": "^2.0.7",
+		"node-fetch": "^2.6.1",
+		"node-superfetch": "^0.2.3",
+		"one-liner-joke": "^1.2.0",
+		"pretty-ms": "^7.0.1",
+		"random-puppy": "^1.1.0",
+		"request": "^2.88.2",
+		"request-promise-native": "^1.0.9",
+		"slash-create": "^3.3.0",
+		"sourcebin_js": "0.0.3-ignore",
+		"stackblur-canvas": "^2.5.0",
+		"topgg-autoposter": "^2.0.0",
+		"twemoji-parser": "^13.0.0",
+		"unirest": "^0.6.0"
+	}
+}
