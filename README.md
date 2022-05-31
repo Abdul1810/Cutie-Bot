@@ -20,10 +20,10 @@
 
 git clone https://github.com/Abdul1810/Cutie-Bot.git
 
-git clone https://github.com/Abdul1810/Cutie-Bot
-
 cd Cutie-Bot
+
 npm install
+
 ```
 
 - Open `config` directory and fill the values
