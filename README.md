@@ -1,6 +1,6 @@
 <img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Canvas" src="https://cdn.discordapp.com/avatars/641844911813165056/64fc10d84618555816686f4b6c9f9517.jpg?size=2048">
 
-# Cutie Bot 🤖
+# Cutie Bot
 
 > An awesome multipurpose discord bot build using [Eris 15.0.1](https://discord.gg/eris) with support for slash commands
 > An awesome multipurpose discord bot build using [Eris Sharder](https://github.com/Abdul1810/eris-sharder.git) for a Good Cluster Management
